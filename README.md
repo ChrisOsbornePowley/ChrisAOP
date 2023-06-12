@@ -18,8 +18,8 @@ I've been a primary teacher specialising in the primary Computing curriculum for
 - Looking to learn and explore another programming language
 
 # And I'm currently interested in any:
-- Entry level data scientist or analyst roles
-- Entry level Python backend or fullstack developer roles
+## - Entry level data scientist or analyst roles
+## - Entry level Python backend or fullstack developer roles
 
 <!--
 **ChrisAOP/ChrisAOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
